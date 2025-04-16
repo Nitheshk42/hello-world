@@ -24,7 +24,7 @@ p  {color:red;}
 
 <body>
 <h1> Heading </h1>
-<p> This is the new line of the code</p>
+<p> This is the new line of the code to learn more about it</p>
 <p> Paragrapg </p>
 </body>
 </html>
