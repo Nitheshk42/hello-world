@@ -25,5 +25,6 @@ p  {color:red;}
 <body>
 <h1> Heading </h1>
 <p> Paragrapg </p>
+<h2> this is also a new line</h2>
 </body>
 </html>
