@@ -35,5 +35,6 @@ style="width:100%;max-width:960px"></div>
 >>>>>>> hello-world-images
 <p> Paragrapg </p>
 <p>new line of code123</p>
+<p>this is all Im learning so I can be perfect</p>
 </body>
 </html>
